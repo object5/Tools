@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "Rod9 - tools",
+    "description": "Additional commands for Xenforo",
+    "version_id": 1000,
+    "version_string": "1.0.0",
+    "dev": "rod9",
+    "dev_url": "https://github.com/object5",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": ""
+}
