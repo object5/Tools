@@ -23,11 +23,12 @@
 ### Installation
 
 1. Clone the repo to your XenForo installation add-ons directory (src/addons)
-2. Install via admin controll panel
+2. Install via admin control panel
 
 
 
 ## Usage
+php cmd.php ...
 * tools:create-entity | Creates entity and setup step
 * tools:create-controller <type> (Pub/Admin/Api) | Creates controller 
 
